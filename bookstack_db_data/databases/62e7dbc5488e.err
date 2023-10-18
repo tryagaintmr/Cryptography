@@ -1,0 +1,99 @@
+231016 16:03:12 mysqld_safe Starting mariadbd daemon with databases from /config/databases
+2023-10-16 16:03:12 0 [Warning] Setting lower_case_table_names=2 because file system for /config/databases/ is case insensitive
+2023-10-16 16:03:12 0 [Note] Starting MariaDB 10.11.5-MariaDB-log source revision 7875294b6b74b53dd3aaa723e6cc103d2bb47b2c as process 397
+2023-10-16 16:03:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.13
+2023-10-16 16:03:12 0 [Note] InnoDB: Using transactional memory
+2023-10-16 16:03:12 0 [Note] InnoDB: Number of transaction pools: 1
+2023-10-16 16:03:12 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-16 16:03:12 0 [Note] mariadbd: O_TMPFILE is not supported on /tmp (disabling future attempts)
+2023-10-16 16:03:13 0 [Note] InnoDB: Using Linux native AIO
+2023-10-16 16:03:13 0 [Note] InnoDB: Initializing buffer pool, total size = 256.000MiB, chunk size = 4.000MiB
+2023-10-16 16:03:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-16 16:03:13 0 [Note] InnoDB: Buffered log writes (block size=512 bytes)
+2023-10-16 16:03:13 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=46438
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 18. Another data file called ./bookstackapp/role_user.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 18. Another data file called ./bookstackapp/role_user.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 18. Another data file called ./bookstackapp/role_user.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/permissions.ibd' with space ID 19. Another data file called ./bookstackapp/role_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/permissions.ibd' with space ID 19. Another data file called ./bookstackapp/role_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 23. Another data file called ./bookstackapp/permission_role.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 23. Another data file called ./bookstackapp/permission_role.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 23. Another data file called ./bookstackapp/permission_role.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 25. Another data file called ./bookstackapp/settings.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 25. Another data file called ./bookstackapp/settings.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 25. Another data file called ./bookstackapp/settings.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/restrictions.ibd' with space ID 29. Another data file called ./bookstackapp/entity_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/restrictions.ibd' with space ID 29. Another data file called ./bookstackapp/entity_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/permissions.ibd' with space ID 19. Another data file called ./bookstackapp/role_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/restrictions.ibd' with space ID 29. Another data file called ./bookstackapp/entity_permissions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 34. Another data file called ./bookstackapp/cache.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 34. Another data file called ./bookstackapp/cache.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 34. Another data file called ./bookstackapp/cache.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 36. Another data file called ./bookstackapp/sessions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 36. Another data file called ./bookstackapp/sessions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: Ignoring data file './bookstackapp/#sql-alter-1df-8.ibd' with space ID 36. Another data file called ./bookstackapp/sessions.ibd exists with the same space ID.
+2023-10-16 16:03:13 0 [Note] InnoDB: End of log at LSN=698881
+2023-10-16 16:03:13 0 [Note] InnoDB: To recover: 320 pages
+2023-10-16 16:03:13 0 [Note] InnoDB: Last binlog file '/config/log/mysql/mariadb-bin.000003', position 94754
+2023-10-16 16:03:13 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-16 16:03:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-16 16:03:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2023-10-16 16:03:13 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2023-10-16 16:03:13 0 [Note] InnoDB: log sequence number 698881; transaction id 1435
+2023-10-16 16:03:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-16 16:03:13 0 [Note] InnoDB: Loading buffer pool(s) from /config/databases/ib_buffer_pool
+2023-10-16 16:03:13 0 [Note] InnoDB: Buffer pool(s) load completed at 231016 16:03:13
+2023-10-16 16:03:13 0 [Note] Server socket created on IP: '0.0.0.0'.
+2023-10-16 16:03:13 0 [Note] Server socket created on IP: '::'.
+2023-10-16 16:03:14 0 [Note] /usr/bin/mariadbd: ready for connections.
+Version: '10.11.5-MariaDB-log'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  Alpine Linux
+2023-10-16 16:03:14 5 [Warning] Aborted connection 5 to db: 'unconnected' user: 'unauthenticated' host: 'localhost' (This connection closed normally without authentication)
+2023-10-16 16:03:14 6 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2023-10-16 16:03:15 4 [Warning] Aborted connection 4 to db: 'unconnected' user: 'unauthenticated' host: 'bookstack.cryptography_default' (This connection closed normally without authentication)
+2023-10-16 16:03:21 7 [Warning] Aborted connection 7 to db: 'unconnected' user: 'unauthenticated' host: 'bookstack.cryptography_default' (This connection closed normally without authentication)
+2023-10-16 16:03:21 8 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 9 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 10 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 11 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 12 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 13 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 14 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 15 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 16 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 17 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 18 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 19 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 20 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 21 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 22 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 23 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 24 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 25 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 26 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 27 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 28 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:49 29 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:50 30 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 31 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 32 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 33 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 34 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 35 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 36 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 37 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 38 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 39 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 40 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 41 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 42 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 43 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 44 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 45 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 46 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 47 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 48 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 49 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 50 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:14:55 51 [Warning] Access denied for user 'bookstack'@'bookstack.cryptography_default' (using password: YES)
+2023-10-16 16:15:27 0 [Note] /usr/bin/mariadbd (initiated by: unknown): Normal shutdown
+2023-10-16 16:15:27 0 [Note] InnoDB: FTS optimize thread exiting.
